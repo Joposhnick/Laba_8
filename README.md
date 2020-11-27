@@ -1,5 +1,8 @@
 # Laba_8
 
+
+
+
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
